@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "chuyuewei",
+  "repo": "container-ll7htfy",
+  "name": "chuyuewei",
+  "email": "139466283+chuyuewei@users.noreply.github.com",
+}
