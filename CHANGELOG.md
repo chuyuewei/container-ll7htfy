@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Aug 10 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@chuyuewei](https://github.com/chuyuewei))
+
+#### Authors: 1
+
+- [@chuyuewei](https://github.com/chuyuewei)
+
+---
+
 # v0.0.2 (Sat Aug 10 2024)
 
 #### ⚠️ Pushed to `main`
