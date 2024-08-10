@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Aug 10 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@chuyuewei](https://github.com/chuyuewei))
+
+#### Authors: 1
+
+- [@chuyuewei](https://github.com/chuyuewei)
+
+---
+
 # v0.0.1 (Sat Aug 10 2024)
 
 :tada: This release contains work from a new contributor! :tada:
